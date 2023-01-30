@@ -16,6 +16,7 @@ import javax.mail.MessagingException;
 
 @SpringBootApplication
 @EnableFeignClients
+
 public class AccountingApplication {
 
 
